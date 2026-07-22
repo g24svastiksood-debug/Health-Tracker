@@ -82,4 +82,3 @@ Notes:
 
 ## Project info
 Svastik Sood, Roll No. 506 — Guru Nanak Khalsa College, Mumbai
-Guide: Prof. Rohan Parab
