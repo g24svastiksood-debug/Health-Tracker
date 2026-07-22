@@ -10,7 +10,7 @@ const contactRoutes = require('./routes/contact');
 
 const app = express();
 
-app.use(cors({ origin: process.env.CLIENT_ORIGIN || '*' }));
+app.use(cors({ origin: "https://g24svastiksood-debug.github.io" }));
 app.use(express.json());
 
 app.get('/api/health', (req, res) => res.json({ status: 'ok' }));
