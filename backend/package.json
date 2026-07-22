@@ -4,7 +4,7 @@
   "description": "Backend API for Health Tracker & Diet Planner (Express + MongoDB)",
   "main": "server.js",
   "scripts": {
-    "start": "node backend.js",
+    "start": "node server.js",
     "dev": "nodemon server.js"
   },
   "dependencies": {
